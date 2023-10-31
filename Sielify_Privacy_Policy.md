@@ -19,11 +19,11 @@ For the purposes of this Privacy Policy:
 - __Account__ means a unique account created for You to access our Service or parts of our Service.
 
 
-- __Application__ refers to @NCFBLA, the software program provided by the Company.
+- __Application__ refers to @Sielify, the software program provided by the Company.
 
 
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to @NCFBLA.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to @Sielify.
 
 
 
@@ -119,7 +119,7 @@ You have the right to delete or request that We assist in deleting the Personal 
 
 Our Service may give You the ability to delete certain information about You from within the Service.
 
-You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us. Contact us at ncfbla.app@gmail.com if you want your data removed from our servers.
+You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us. Contact us at Sielify.app@gmail.com if you want your data removed from our servers.
 
 Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
 
@@ -186,4 +186,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 
-- By email: ncfbla.app@gmail.com
+- By email: Sielify.app@gmail.com
