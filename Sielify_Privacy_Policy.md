@@ -25,17 +25,17 @@ For the purposes of this Privacy Policy:
 - __Account__ means a unique account created for You to access our Service or parts of our Service.
 
 
-- __Application__ refers to @Sielify, the software program provided by the Company.
+- __Application__ refers to Sielify, the software program provided by the Company.
 
 
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to @Sielify.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Sielify.
 
 
 
 - __Country__ refers to: Washington,  United States
 
-- __Device__ means any device that can access the Service such as a computer, a cellphone or a digital tablet.
+- __Device__ means any device that can access the Service such as a cellphone or a digital tablet.
 
 
 
@@ -78,9 +78,9 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 Usage Data is collected automatically when using the Service.
 
-Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
+Usage Data may include information such as Your Device's location, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use and your mobile operating system.
+When You access the Service, We may collect certain information automatically, including, but not limited to, the type of mobile device You use and your mobile operating system.
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
 
@@ -102,7 +102,7 @@ The Company may use Personal Data for the following purposes:
 
 We may share Your personal information in the following situations:
 
-- __With other users:__ when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside. 
+- __With other users:__ when You share personal information or otherwise interact in public areas with other users, such information may be viewed by all users and may be publicly distributed outside. 
 - __With Your consent__: We may disclose Your personal information for any other purpose with Your consent.
 
 ## Retention of Your Personal Data
@@ -168,24 +168,24 @@ The security of Your Personal Data is important to Us, but remember that no meth
 
 # Children's Privacy
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
+We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
 
 # Links to Other Websites
 
-Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
+Our Service may contain links to other websites that are not operated by Us. If You click on a third-party link, You will be directed to that third-party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 # Changes to this Privacy Policy
 
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
-We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
+We will let You know via email and/or a prominent notice on Our Service, before the change becomes effective and update the "Last updated" date at the top of this Privacy Policy.
 
-You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when posted on this page.
 
 # Contact Us
 
