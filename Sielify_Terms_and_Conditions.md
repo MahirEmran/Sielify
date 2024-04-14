@@ -167,4 +167,7 @@ These Terms of Service and any policies or operating rules posted by us on the a
 
 To resolve a complaint regarding the app or to receive further information regarding the use of the app, please contact us at ncfbla.app@gmail.com
 
+This Privacy Policy has been created with the help of Termly's Terms and Conditions Generator.
+
+
 
