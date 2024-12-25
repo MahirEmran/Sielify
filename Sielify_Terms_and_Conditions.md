@@ -5,7 +5,7 @@ Last updated: April 14, 2024
 
 ## 1. AGREEMENT TO TERMS
 
-These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Sielify (“we," “us," or “our”), concerning your access to and use of the Sielify mobile application as well as any other media form or media channel linked, or otherwise connected thereto (collectively, the “app”). You agree that by accessing the app, you have read, understood, and agreed to be bound by all of these Terms of Service. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APP AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Terms of Service constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Simplify Experiences LLC (“we," “us," or “our”), concerning your access to and use of the Simplex mobile application as well as any other media form or media channel linked, or otherwise connected thereto (collectively, the “app”). You agree that by accessing the app, you have read, understood, and agreed to be bound by all of these Terms of Service. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE APP AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
 Supplemental terms and conditions or documents that may be posted on the app from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Service at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms of Service, and you waive any right to receive specific notice of each such change. Please ensure that you check the applicable Terms every time you use our app so that you understand which Terms apply. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Service by your continued use of the app after the date such revised Terms of Service are posted.
 
@@ -110,7 +110,7 @@ We cannot guarantee the app will be available at all times. We may experience ha
 
 ## 11. GOVERNING LAW 
 
-These Terms shall be governed by and defined following the laws of the United States. @Sielify and yourself irrevocably consent that the courts of the United States shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
+These Terms shall be governed by and defined following the laws of the United States. @Simplify Experiences LLC and yourself irrevocably consent that the courts of the United States shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
 
 
 ## 12. DISPUTE RESOLUTION
