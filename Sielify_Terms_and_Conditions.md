@@ -1,6 +1,6 @@
 # Terms of Service
 
-Last updated: April 14, 2024
+Last updated: December 25, 2024
 
 
 ## 1. AGREEMENT TO TERMS
