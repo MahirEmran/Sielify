@@ -25,11 +25,11 @@ For the purposes of this Privacy Policy:
 - __Account__ means a unique account created for You to access our Service or parts of our Service.
 
 
-- __Application__ refers to Sielify, the software program provided by the Company.
+- __Application__ refers to Simplex, the software program provided by the Company.
 
 
 
-- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Sielify.
+- __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Simplify Experiences LLC.
 
 
 
